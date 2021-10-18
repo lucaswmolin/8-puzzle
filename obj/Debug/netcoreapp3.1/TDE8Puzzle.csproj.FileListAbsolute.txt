@@ -1,0 +1,15 @@
+C:\Users\Pichau\source\repos\TDE8Puzzle\bin\Debug\netcoreapp3.1\TDE8Puzzle.exe
+C:\Users\Pichau\source\repos\TDE8Puzzle\bin\Debug\netcoreapp3.1\TDE8Puzzle.deps.json
+C:\Users\Pichau\source\repos\TDE8Puzzle\bin\Debug\netcoreapp3.1\TDE8Puzzle.runtimeconfig.json
+C:\Users\Pichau\source\repos\TDE8Puzzle\bin\Debug\netcoreapp3.1\TDE8Puzzle.runtimeconfig.dev.json
+C:\Users\Pichau\source\repos\TDE8Puzzle\bin\Debug\netcoreapp3.1\TDE8Puzzle.dll
+C:\Users\Pichau\source\repos\TDE8Puzzle\bin\Debug\netcoreapp3.1\TDE8Puzzle.pdb
+C:\Users\Pichau\source\repos\TDE8Puzzle\obj\Debug\netcoreapp3.1\TDE8Puzzle.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\TDE8Puzzle\obj\Debug\netcoreapp3.1\TDE8Puzzle.Form1.resources
+C:\Users\Pichau\source\repos\TDE8Puzzle\obj\Debug\netcoreapp3.1\TDE8Puzzle.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\TDE8Puzzle\obj\Debug\netcoreapp3.1\TDE8Puzzle.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\TDE8Puzzle\obj\Debug\netcoreapp3.1\TDE8Puzzle.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\TDE8Puzzle\obj\Debug\netcoreapp3.1\TDE8Puzzle.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\TDE8Puzzle\obj\Debug\netcoreapp3.1\TDE8Puzzle.dll
+C:\Users\Pichau\source\repos\TDE8Puzzle\obj\Debug\netcoreapp3.1\TDE8Puzzle.pdb
+C:\Users\Pichau\source\repos\TDE8Puzzle\obj\Debug\netcoreapp3.1\TDE8Puzzle.genruntimeconfig.cache

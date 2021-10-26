@@ -1,1 +1,1 @@
-Trabalho de aula feito para a disciplina Complexidade de Algoritmos pelos alunos Lucas Molin e Luiz Bortoluzzi.
+Trabalho de aula feito para a disciplina Complexidade de Algoritmos do curso de Ciência da Computação da Universidade de Caxias do Sul (UCS) pelos alunos Lucas Molin e Luiz Bortoluzzi. O objetivo era desenvolver um resolvedor do Puzzle-8 por Backtracking ou BFS.
